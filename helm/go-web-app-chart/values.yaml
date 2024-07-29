@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: govadoc/go-web-app
+  repository: govadoc/go-web-app-devops-main
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "10016307834"
